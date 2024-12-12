@@ -1,4 +1,4 @@
 export const environment = {
     production: false,
-    apiBaseUrl: 'http://localhost:8088/api/v1',        
+    apiBaseUrl: 'https://kma-cnpm-l03-ct7c-be.onrender.com/api/v1',        
 };
